@@ -69,3 +69,6 @@ class ApplicationController @Inject() (
     env.authenticatorService.discard(request.authenticator, result)
   }
 }
+
+
+
